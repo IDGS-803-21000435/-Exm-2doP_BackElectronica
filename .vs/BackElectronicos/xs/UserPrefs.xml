@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{8261A393-2F67-44B4-B4F7-B967D6FDA35D}|http">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BackElectronicos/Controllers/ProductosController.cs">
+    <Files>
+      <File FileName="BackElectronicos/Models/Producto.cs" />
+      <File FileName="BackElectronicos/Models/TiendaElectronicaContext.cs" Line="35" Column="1" />
+      <File FileName="BackElectronicos/Program.cs" Line="16" Column="55" />
+      <File FileName="BackElectronicos/Controllers/ProductosController.cs" Line="35" Column="6" />
+      <File FileName="BackElectronicos/appsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BackElectronicos" expanded="True">
+            <Node name="BackElectronicos" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="ProductosController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BackElectronicos PreferredExecutionTarget="/Applications/Firefox.app" FirstBuild="True" />
+</Properties>
